@@ -1,0 +1,1 @@
+a:1:{i:0;O:11:"App\Student":6:{s:15:"App\Studentid";i:5;s:21:"App\StudentlastName";s:12:"Живаев";s:17:"App\Studentname";s:12:"Владислав";s:20:"App\Studentfaculty";s:10:"ФМиИТ";s:19:"App\Studentcourse";i:4;s:18:"App\Studentgroup";i:402;}}
